@@ -1,3 +1,5 @@
-eo-report
-eo-report-demo
-eo-swarm
+eo-gitops
+eo-gitops-logger
+eo-infra
+eo-jira-demo
+eo-n8n-ai
