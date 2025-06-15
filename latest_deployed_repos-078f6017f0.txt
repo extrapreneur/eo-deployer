@@ -1,2 +1,0 @@
-ca-recovery-plan
-tournament-api
